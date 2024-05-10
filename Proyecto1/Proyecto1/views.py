@@ -1,15 +1,13 @@
 from datetime import datetime, timezone
-
 from django.http import HttpResponse
 from django.shortcuts import render
 from django.template import Template, Context
 
+#hola
+
 
 def saludo(request):
     return HttpResponse("Hola")
-
-
-#dfdsfsdfsdfsdf
 
 def bye(request):
     return HttpResponse("bye")
