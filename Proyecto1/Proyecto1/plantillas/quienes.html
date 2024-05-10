@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo Plantillas</title>
+</head>
+<body>
+<h1>Quienes</h1>
+<a href="/home/">Quienes Somos</a>
+<ul>
+{% for x in lista %}
+<li>{{ x.upper }}</li>
+{% endfor %}
+</ul>
+</body>
+</html>
