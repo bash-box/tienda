@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d5ff007-068e-4dda-8436-fb16a8a66153" name="Changes" comment="Commit Tienda">
-      <change beforePath="$PROJECT_DIR$/Test" beforeDir="false" />
-    </list>
+    <list default="true" id="7d5ff007-068e-4dda-8436-fb16a8a66153" name="Changes" comment="Commit Tienda" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +75,67 @@
       <option name="project" value="LOCAL" />
       <updated>1715357216258</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Tienda">
+      <option name="closed" value="true" />
+      <created>1715357418005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715357418005</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit Tienda">
+      <option name="closed" value="true" />
+      <created>1715357433522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715357433522</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit Tienda">
+      <option name="closed" value="true" />
+      <created>1715357447485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715357447485</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit Tienda">
+      <option name="closed" value="true" />
+      <created>1715357465622</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715357465622</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit Tienda">
+      <option name="closed" value="true" />
+      <created>1715357500947</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715357500947</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit Tienda">
+      <option name="closed" value="true" />
+      <created>1715357523667</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715357523667</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
